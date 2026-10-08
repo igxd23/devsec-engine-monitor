@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+
+.DS_Store
+.vscode/
+.idea/
+
+*.log
+
+# Large/local ML artifacts
+vehicle_pipeline.pkl
+engine_failure_dataset.csv
